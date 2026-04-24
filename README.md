@@ -1,4 +1,28 @@
-## Hi there 👋
+## Hi there 👋 Watashi wa Dhruv desu!
+*(Bless that Duolingo streak haha...)*
+
+**I'm a rookie programmer. I started my journey with Python, using which I have solved countless problems to this day! I'm currently exploring web development!**
+
+---
+
+### 🚀 Some useful Python tools I'm proud of making:
+- **Spotify Venn Editor**: Edit Spotify playlists like Venn diagrams! *(Could not publish due to strict Spotify API regulations :C)*
+- **GeminiTube**: A tool specially made for my mom that automates YouTube SEO!
+
+---
+
+### 🎨 Other than programming, my interests lie in:
+- Graphic designing *(Adobe Photoshop, Illustrator)*
+- Visual communication
+- (My behance)[https://www.behance.net/dhruvsenpai]
+
+---
+
+### 🎯 Future goals:
+- [ ] Learn web development  
+- [ ] Create charming user experiences by combining my skills and interests  
+- [ ] Contribute to open source projects
+- [x] Never stop learning
 
 <!--
 **rNADOMROOM22stopmotion/rNADOMROOM22stopmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
