@@ -14,7 +14,7 @@
 ### 🎨 Other than programming, my interests lie in:
 - Graphic designing *(Adobe Photoshop, Illustrator)*
 - Visual communication
-- (My behance)[https://www.behance.net/dhruvsenpai]
+- [My behance](https://www.behance.net/dhruvsenpai)
 
 ---
 
