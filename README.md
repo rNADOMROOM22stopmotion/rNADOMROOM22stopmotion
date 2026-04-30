@@ -6,6 +6,7 @@
 ---
 
 ### 🚀 Some useful Python tools I'm proud of making:
+- **TUIman** (Currently working on): A Terminal-based music player to play your favourite mp3s! Has Lyrics support, Album art display, planning on adding queue and shuffling feature soon.
 - **Spotify Venn Editor**: Edit Spotify playlists like Venn diagrams! *(Could not publish due to strict Spotify API regulations :C)*
 - **GeminiTube**: A tool specially made for my mom that automates YouTube SEO!
 
